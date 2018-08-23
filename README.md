@@ -1,2 +1,2 @@
 # SkunkWorksVIA
-Visual Intelligence with NLP
+Repository to do all cool Visual Intelligence stuff.
